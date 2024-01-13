@@ -6,7 +6,7 @@ Rules to play / Logic of the game :
 <img width="1440" alt="Screenshot 2022-04-17 at 6 38 33 PM" src="https://user-images.githubusercontent.com/50740650/163715991-94a0c680-587d-4b96-aa94-ace36d9e5094.png">
 
 
-2. If guess is greater is greater or less than the generated number too high or too low is displayed respectively.
+2. If guess is greater or less than the generated number too high or too low is displayed respectively.
 
 
 <img width="1440" alt="Screenshot 2022-04-17 at 6 39 46 PM" src="https://user-images.githubusercontent.com/50740650/163716061-dff773c6-1335-49f1-acb9-d433589c68ac.png">
